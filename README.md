@@ -1,0 +1,1 @@
+A spotify recommender app that takes in user input and saved music to provide a small playlist recommendation. Recommendation system *will* use weighted cosine simialrity combining your quiz results with your past listening history.
